@@ -1,0 +1,1 @@
+from cipher_kj2592 import cipher_kj2592
